@@ -26,7 +26,7 @@
     "pinia": "^2.0.11",
     "pinia-plugin-persist": "^1.0.0",
     "portfinder": "^1.0.32",
-    "quasar": "^2.6.0",
+    "quasar": "^2.32.2",
     "request": "^2.88.2",
     "socket.io-client": "^4.5.4",
     "vue": "^3.0.0",
